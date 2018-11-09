@@ -3,7 +3,7 @@
 
 **note** it's very possible that I made mistakes so take what this gives with a bucketload of salt.
 
-resultr-plot let [resultr](https://github.com/haykkh/resultr:
+resultr-plot lets you: 
   * plot a histogram of the results for a module in the bins: (0,40), (40,50), (50, 60), (60, 70), (80, 90), (90, 100)
 
 
